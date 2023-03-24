@@ -18,7 +18,7 @@ export function defaultSetting(): UserState {
       avatar: 'https://raw.githubusercontent.com/Chanzhaoyu/chatgpt-web/main/src/assets/avatar.jpg',
       name: 'DongPo',
       // description: 'Star on <a href="https://github.com/Chanzhaoyu/chatgpt-bot" class="text-blue-500" target="_blank" >Github</a>',
-      description: "我是李东坡",
+      description: "我是LS",
     },
   }
 }
